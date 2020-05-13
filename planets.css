@@ -1,0 +1,8 @@
+#body {background: lightblue; }
+#body {background: #ccffff; }
+body {background-image: url('L1001107v2.JPG');
+      background-size: cover ; }
+p {font-size: 20px; color:white;}
+td {  color:white;
+}
+h1 { color:white;}
