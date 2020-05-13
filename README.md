@@ -1,6 +1,6 @@
 # miscellanies
 
-Differnet projects
+Different projects
 
 1.
 
